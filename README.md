@@ -20,7 +20,7 @@ Welcome to this online code editor built with React, allowing users to write and
 
 1. Clone the repository:
 
-git clone git@github.com:ridsb/online-editor.git
+git clone git @github.com:ridsb/online-editor.git
 
 2. Navigate to the project directory:
 
