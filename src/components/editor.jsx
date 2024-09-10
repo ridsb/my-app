@@ -8,8 +8,10 @@ import 'codemirror/mode/css/css';
 
 import { Controlled as ControlledEditor } from 'react-codemirror2';
 
-import { Box, Typography, Button, styled } from '@mui/material';
-import { CloseFullscreen } from '@mui/icons-material';
+// import { Box, Typography, Button, styled } from '@mui/material';
+import Box from '@mui/material/Box';
+import { styled } from '@mui/material';
+// import { CloseFullscreen } from '@mui/icons-material';
 
 import '../App.css';
 
@@ -64,7 +66,7 @@ const Editor = ({ heading, language, value, onChange, icon, color }) => {
                     </Box>
                     {heading}
                 </Heading>
-                <CloseFullscreen 
+                <div 
                     fontSize="small"
                     style={{ alignSelf: 'center'}}
                     onClick={() => setOpen(prevState => !prevState)}
