@@ -36,6 +36,8 @@ npm start
 
 Visit `http://localhost:3000` in your web browser to start using this React Realtime editor.
 
-## Note: This project requires React versions 15.x to 17.x, as a library named CodeMirror has been used, which is not yet published for React version 18.x.
+![image](https://github.com/user-attachments/assets/fcbbe546-0b76-435e-8ad3-42e845939e3a)
+![image](https://github.com/user-attachments/assets/cc44a8a4-48de-4578-83a5-0899fcbbca1d)
+
 
 Happy coding!
